@@ -1,4 +1,4 @@
-# Akash Kumar | Senior Data Engineer
+# Akash Kumar
 
 **📧 akash211@gmail.com** | **📱 +91-8860823656** | **📍 Bengaluru, India** | **🔗 [LinkedIn](https://www.linkedin.com/in/akash211/)**
 
