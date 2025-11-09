@@ -139,23 +139,6 @@ OneTick (Time Series database for Financial Data)
 
 ---
 
-## 🎯 Technical Focus Areas
-
-### **Current Expertise**
-• Cloud Data Warehousing (Snowflake, Synapse)  
-• ETL/ELT Pipeline Development (Python, Airflow)  
-• Financial Data Processing (OneTick, Market Feeds)  
-• Statistical Analysis & Machine Learning  
-
-### **2025 Learning Roadmap**
-• **Data Mesh Architecture** and **DataOps** practices  
-• **Real-time Streaming** with Kafka and Event Hubs  
-• **MLOps** integration with Azure ML and Databricks  
-• **Infrastructure as Code** with Terraform  
-• **Advanced Spark** optimization and Delta Lake  
-
----
-
 ## 💡 What I Bring
 
 ✅ **Proven Scale:** Built data systems processing millions of records daily  
