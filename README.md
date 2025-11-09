@@ -1,30 +1,36 @@
 # Akash Kumar | Senior Data Engineer
 
-**📧 akash211@gmail.com** | **📱 +91-8860823656** | **📍 Bettiah, Bihar, India** | **🔗 [LinkedIn](https://www.linkedin.com/in/akash211/)**
+**📧 akash211@gmail.com** | **📱 +91-8860823656** | **📍 Bengaluru, India** | **🔗 [LinkedIn](https://www.linkedin.com/in/akash211/)**
 
 ---
 
 ## 🎯 Professional Summary
 
-Senior Data Engineer with **11+ years** of experience building scalable data pipelines and analytics solutions in **Finance** and **E-commerce** domains. Proven track record of delivering **60+ headcount savings** through automation and optimizing data workflows processing millions of records daily. Expert in cloud data architectures, ETL/ELT pipelines, and modern data stack technologies.
+• Senior software Specialist with **13+ years** of experience building scalable data pipelines and analytics solutions in **Investment Banking** and **E-commerce** domains. 
+• Proven track record of delivering **60+ headcount savings** through automation and optimizing data workflows processing millions of records daily. 
+• Expert in cloud data architectures, ETL/ELT pipelines, and modern data stack technologies. Strong hands-on experience with Azure ecosystem (Synapse, Data Factory, Fabric, Power BI), AWS (S3, Redshift), and modern data engineering tools. 
+• Adept at translating business requirements into technical solutions and leading data initiatives from conception to production.
 
-**Seeking:** Senior Data Engineer | Lead Data Engineer roles with cloud-first data platforms
+**Seeking:** Senior/Lead Data Engineer roles with cloud-first data platforms
 
 ---
 
 ## 💼 Professional Experience
 
-### **Senior Software Specialist** | Nuware Systems LLP | *Dec 2021 - Present*
+### **Senior Software Specialist** | Nuware Systems LLP (Client - AllianceBernstein)| *Dec 2021 - Present*
 **Python Developer & Tick Data Engineer** - Alliance Bernstein (EIMT/MAS)
 
-• **Data Pipeline Architecture:** Built end-to-end data pipelines from FTP sources to Snowflake, processing financial tick data and market feeds  
-• **Workflow Orchestration:** Designed and maintained 15+ Apache Airflow DAGs for automated data ingestion and transformation  
-• **Framework Development:** Developed internal Python package "Quantm" for factor modeling and backtesting with historical data validation  
-• **Real-time Monitoring:** Created automated testing framework with email alerts and dashboards for OneTick database health monitoring  
-• **Cloud Migration:** Led conversion of R Shiny applications to Python Streamlit, improving performance by 40%  
-• **Web Applications:** Built interactive dashboards using Streamlit and Dash for analyst consumption  
+• **Data Infrastructure Management:** Architected and managed 140TB+ data infrastructure processing 750GB+ daily through automated pipelines using cronjobs, Apache Airflow and AWS S3  
+• **Data Quality System:** Designed comprehensive monitoring system tracking 300+ databases with automated failure notifications, ensuring OneTick Databases reliability  
+• **Cloud Platform Migration:** Leading migration from Databricks to Microsoft Fabric, modernizing data platform architecture while maintaining business continuity  
+• **Web Applications:** Built and migrated multiple interactive dashboards (Streamlit, Dash), including porting a 10-year-old R-based application to Streamlit to improve performance and maintainability.
+• **Power BI Implementation:** Established DEV/PROD pipeline architecture in Power BI (Fabric) workspaces for Risk and Multi Asset teams, ensuring governance, moved our two apps(used by trading desk) to PowerBI from Dash to improve perfromance and security.
+• **Database Performance:** Optimized OneTick time-series database performance through ODBC/DSN integrations and SQL Server pipeline development  
+• **Business Continuity:** Successfully maintained critical data operations during 6-month transition, resolving all issues within 24-hour SLA  
+• **Data Optimization:** Led transition to Parquet format for about 150+TB, significantly improving query performance and storage efficiency  
+• **Knowledge Management:** Redesigned internal documentation system, enabling rapid onboarding and reducing team knowledge gaps
 
-**Tech Stack:** Python, Snowflake, Apache Airflow, OneTick, Streamlit, Linux, SQL Server
+**Tech Stack:** Python, Bash, Apache Airflow, OneTick, AWS S3, Linux, SQL Server, Streamlit
 
 ### **Business Analyst** | Amazon Development Centre | *Oct 2017 - Dec 2021*
 **Strategic Vendor Services**
@@ -34,7 +40,7 @@ Senior Data Engineer with **11+ years** of experience building scalable data pip
 • **Dashboard Development:** Built 20+ Tableau dashboards serving 200+ stakeholders across vendor management teams  
 • **Machine Learning:** Implemented NLP solution for automated product title optimization achieving **84% accuracy**  
 • **Statistical Analysis:** Conducted A/B testing using statistical methods to measure content impact on conversion rates  
-• **Mentorship:** Trained 10+ team members on SQL, Python, and Tableau best practices  
+• **Mentorship:** Trained 15+ team members on SQL, Python, and Tableau best practices  
 
 **Tech Stack:** Python, Amazon Redshift, Tableau, Flask, Selenium, MySQL, Linux
 
@@ -60,50 +66,48 @@ Senior Data Engineer with **11+ years** of experience building scalable data pip
 **B.Tech (Electronics & Communication)** | Uttarakhand Technical University | *2007-2011*
 
 ### **Cloud & Data Certifications**
-• **Microsoft DP-100:** Azure Data Scientist Associate (2024)  
-• **Microsoft DP-420:** Azure Cosmos DB Developer Specialty (2023)  
-• **Microsoft DP-300:** Azure Database Administrator Associate (2023)  
-• **Microsoft DP-900:** Azure Data Fundamentals (2023)  
-• **Microsoft AI-900:** Azure AI Fundamentals (2023)  
+• **Microsoft DP-700:** [Fabric Data Engineer Associate (2025)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/9534715E573EBF91?sharingId=A1237A2841EE63A9)
+• **Microsoft PL-300:** [Power BI Data Analyst Associate (2024)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/9B6416C54738487?sharingId=A1237A2841EE63A9)
+• **Microsoft DP-100:** [Azure Data Scientist Associate (2024)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/5B223060E063B5D1?sharingId=A1237A2841EE63A9)
+• **Microsoft DP-420:** [Azure Cosmos DB Developer Specialty (2023)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/8ED51E74C262CAF1?sharingId=A1237A2841EE63A9)  
+• **Microsoft DP-300:** [Azure Database Administrator Associate (2023)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/36F66320A682B62F?sharingId=A1237A2841EE63A9)
+• **Microsoft DP-900:** [Azure Data Fundamentals (2023)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/C9F38B5F6F0895C4?sharingId=A1237A2841EE63A9)  
+• **Microsoft AI-900:** [Azure AI Fundamentals (2023)](https://learn.microsoft.com/api/credentials/share/en-in/akash211/71B1D07EE408C206?sharingId=A1237A2841EE63A9)  
 
-### **Target Certifications 2025**
-• **Azure Data Engineer Associate (DP-203)** - *Planned Q1 2025*  
-• **Databricks Certified Data Engineer Professional** - *Planned Q2 2025*  
-• **Snowflake SnowPro Core Certification** - *Planned Q1 2025*  
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### **Programming & Scripting**
-Python (Advanced) • SQL (Expert) • R • Bash/Shell • VBA • PowerShell
+Python • Spark • SQL (Expert) • R • Bash • VBA • PowerShell 
 
 ### **Cloud Platforms & Services**
-**Microsoft Azure:** Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Cosmos DB, SQL Database, Event Hubs, Stream Analytics, Logic Apps  
-**AWS:** S3, Redshift, Glue, Lambda, RDS, EMR *(Target for 2025)*
+**Microsoft Azure:** Fabrics, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Cosmos DB, SQL Database, Event Hubs, Stream Analytics, Logic Apps  
+**AWS:** S3, Redshift, Glue, Lambda, RDS
 
 ### **Data Engineering Stack**
 **Orchestration:** Apache Airflow, Azure Data Factory  
 **Data Warehouses:** Snowflake, Azure Synapse, Amazon Redshift  
 **Processing:** Apache Spark, Azure Databricks, Pandas, PySpark  
-**Streaming:** Azure Event Hubs, Kafka *(Learning)*  
-**Storage:** Azure Data Lake, Parquet, Delta Lake *(Target)*  
+**Streaming:** Azure Event Hubs, Kafka
+**Storage:** Azure Data Lake, Parquet, Delta Lake
 
 ### **Databases & Analytics**
 **OLTP:** SQL Server, PostgreSQL, MySQL, Azure SQL, CosmosDB  
 **OLAP:** Snowflake, Synapse Analytics, Redshift  
-**NoSQL:** CosmosDB, MongoDB *(Target)*  
-**Analytics:** Tableau, Power BI *(Learning)*, Streamlit, Plotly
+**NoSQL:** CosmosDB, MongoDB
+**Analytics:** Tableau, Power BI, Streamlit, Plotly
 
 ### **DevOps & Infrastructure**
-**Version Control:** Git, Azure DevOps  
-**CI/CD:** Azure Pipelines *(Target)*, GitHub Actions *(Learning)*  
-**Containerization:** Docker *(Learning)*, Kubernetes *(Target)*  
-**Infrastructure as Code:** ARM Templates, Terraform *(Target)*  
+**Version Control:** GitHub, Azure DevOps  
+**CI/CD:** Azure Pipelines, GitHub Actions  
+**Containerization:** Docker, Kubernetes
+**Infrastructure as Code:** ARM Templates, Terraform, Ansible
 **Monitoring:** Azure Monitor, Application Insights
 
 ### **Specialized Tools**
-OneTick (Financial Data) • dbt *(Target)* • Great Expectations *(Target)* • Apache Superset *(Learning)*
+OneTick (Time Series database for Financial Data)
 
 ---
 
@@ -115,14 +119,14 @@ OneTick (Financial Data) • dbt *(Target)* • Great Expectations *(Target)* �
 • **50%+ TAT Reduction:** Streamlined vendor payment and logistics processes  
 
 ### **Data Engineering Excellence**
-• **Multi-Million Record Processing:** Built pipelines handling financial market data at scale  
+• **Multi-Million Record Processing:** Built pipelines handling financial market data at scale (Daily processing 750GB+)
 • **Zero-Downtime Migrations:** Successfully migrated applications between technology stacks  
 • **Real-time Monitoring:** Implemented comprehensive data quality and pipeline health monitoring  
 
 ### **Leadership & Impact**
-• **Team Management:** Led teams up to 12 members with focus on technical skill development  
+• **Team Management:** Led team of 12 members with focus on technical skill development  
 • **Cross-functional Collaboration:** Worked with data scientists, analysts, and business stakeholders  
-• **Knowledge Transfer:** Mentored 10+ professionals on modern data engineering practices  
+• **Knowledge Transfer:** Mentored 15+ professionals on modern data engineering practices  
 
 ---
 
@@ -162,4 +166,3 @@ OneTick (Financial Data) • dbt *(Target)* • Great Expectations *(Target)* �
 
 ---
 
-*Ready to architect next-generation data platforms that drive business value through scalable, reliable, and efficient data engineering solutions.*
