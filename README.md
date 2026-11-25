@@ -1,208 +1,81 @@
 # Akash Kumar
 
-📧 akash211@gmail.com  
-📱 +91-8860823656  
-📍 Bengaluru, India  
-🔗 https://www.linkedin.com/in/akash211/
+### Technical Lead · Data Engineering & AI Platforms
 
----
+I build and operate production data platforms: time-series infrastructure, market-data ingestion, analytics applications and AI automation, with a focus on reliability, scale and operational ownership.
 
-## 👋 About Me
+## About me
 
-Senior Software Specialist with 13+ years of experience building scalable data pipelines and analytics solutions in Investment Banking and E‑commerce domains.
+- 14+ years across investment management, e-commerce, analytics and automation
+- Technical Lead at Nuware Systems, supporting AllianceBernstein Multi-Asset Solutions
+- Owner of a 300+ TB OneTick time-series fleet: 5 servers, 26 processes, 100–140 GB/day of global market data
+- Re-architected the TCA dashboard onto DuckDB for zero-downtime refresh and sub-second queries
+- Delivered 60+ FTE equivalents in savings through Python automation at Amazon
+- Microsoft-certified: Fabric Data Engineer (DP-700), Power BI (PL-300), Azure Data Scientist (DP-100), Azure DBA (DP-300), Cosmos DB AI Developer (DP-420)
 
----
+## What I build
 
-## 🎯 Snapshot (Infographic-style)
+| Area | Focus |
+|---|---|
+| Data platforms | Batch ingestion, ETL/ELT, data quality, time-series, analytical storage |
+| Engineering | Python, SQL, FastAPI, Dash, Streamlit, Pandas, pytest, REST APIs |
+| Orchestration | Apache Airflow, monitoring, alerting, failure recovery |
+| Cloud & data | Azure (ADF, Fabric), Snowflake, AWS S3, Redshift, DuckDB, SQL Server, Parquet |
+| Infrastructure | Linux, Docker, CI/CD, GitHub Actions, Ansible, Terraform (homelab) |
+| AI systems | Tool-using agents, MCP servers, LLM automation, RAG concepts, evaluation |
 
-- Role Sought: Senior / Lead Data Engineer (cloud-first)
-- Experience: 13+ years
-- Headcount Savings Delivered: 60+
-- Daily Ingest: 750+ GB
-- Managed Data Infra: 140+ TB
-- Major Platforms: Azure (Fabric, Synapse), AWS (S3, Redshift)
-- Primary Languages: Python, SQL
+## Selected production impact
 
----
+### 300+ TB market-data platform
 
-## 💼 Professional Summary
+- Five OneTick servers (4 production, 1 QA), 26 processes on 64-core nodes up to 1 TB RAM.
+- 300+ TB tick history, including 130+ TB of 30-year US TAQ.
+- 100–140 GB/day ingestion across US, LSE, Shanghai and Shenzhen exchanges: trades, quotes, order book, NBBO, FX, futures.
+- Bloomberg BPIPE real-time feeds generating 1-, 5-minute and volume bars.
 
-- Proven ability to design and operate large-scale data platforms.
-- Delivered automation that reduced manual effort and headcount requirements.
-- Experienced with migrations, performance tuning, and real-time monitoring.
-- Strong at translating business needs into production data solutions.
-- Comfortable leading teams, mentoring, and knowledge transfer.
+### Platform modernization
 
----
+- Re-architected mas-tca-dashboard from a memory-bound in-process model to DuckDB-backed serving with decoupled refresh.
+- Eliminated daily restarts and held sub-second queries for trading-desk analysts.
+- Led three production Python modernisations (3.7 to 3.11, 3.8 to 3.12).
+- Built CI/CD sync across a five-server fleet; migrated DQ baselines from 70+ JSON files to SQLite.
 
-## 🛠️ Core Tech Stack
+### AI automation
 
-### Programming & Scripting
-- Python
-- Spark
-- SQL (Expert)
-- R
-- Bash
-- VBA
-- PowerShell
+- Tick-data DQ monitoring agent: LLM tool calling + FastMCP + AWS S3, triages missing tick data against exchange holidays and source availability.
+- OneTick MCP server: exposes tick coverage, DQ results and symbol metadata as tools for coding assistants and internal agents.
 
-### Cloud Platforms & Services
-- Microsoft Azure: Fabric, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Cosmos DB, SQL Database, Event Hubs, Stream Analytics, Logic Apps
-- AWS: S3, Redshift, Glue, Lambda, RDS
+### Earlier impact
 
-### Data Engineering
-- Orchestration: Apache Airflow, Azure Data Factory
-- Warehouses: Snowflake, Azure Synapse, Amazon Redshift
-- Processing: Apache Spark, Azure Databricks, Pandas, PySpark
-- Streaming: Azure Event Hubs, Kafka
-- Storage: Azure Data Lake, Parquet, Delta Lake
+- Amazon: Python/VBA automation delivering 60+ FTE savings; 20+ Tableau dashboards; NLP engine correcting 84%+ of non-compliant product titles.
+- Tolexo: Six Sigma DMAIC programme moved dispatch from 90% within 72 hours to 95% within 28 hours.
+- Snapdeal: routing and network redesign for 9,000+ daily orders, cutting allocation-to-dispatch from 4 days to 1.5 days.
+- Jabong: vendor payment turnaround from 15 days to 7 days.
 
-### Databases & Analytics
-- OLTP: SQL Server, PostgreSQL, MySQL, Azure SQL, Cosmos DB
-- OLAP: Snowflake, Synapse Analytics, Redshift
-- NoSQL: Cosmos DB, MongoDB
-- Analytics & Visualization: Tableau, Power BI, Streamlit, Plotly
+## Certifications
 
-### DevOps & Infra
-- Version Control: GitHub, Azure DevOps
-- CI/CD: Azure Pipelines, GitHub Actions
-- Containerization: Docker, Kubernetes
-- IaC: ARM Templates, Terraform, Ansible
-- Monitoring: Azure Monitor, Application Insights
+- Microsoft Certified: Fabric Data Engineer Associate (DP-700), 2025
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300), 2024
+- Microsoft Certified: Azure Data Scientist Associate (DP-100), 2024
+- Microsoft Certified: Azure Database Administrator Associate (DP-300), 2023
+- Microsoft Certified: Azure Cosmos DB AI Developer Associate (DP-420), 2023
+- Astronomer Certified: Apache Airflow 2 Fundamentals, 2024
+- Six Sigma Green Belt — Indian Statistical Institute, 2016
 
-### Specialized Tools
-- OneTick (Time-series DB for financial data)
+## Education
 
----
+- Post Graduate Program in Business Analysis (PGP-BA), Purdue University (online), 2022
+- B.Tech, Electronics & Communication Engineering, Uttarakhand Technical University; Kumaon Engineering College, Almora, 2007–2011
 
-## 🏆 Certifications
+## Current learning focus
 
-- Microsoft DP-700 — Fabric Data Engineer Associate (2025)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/9534715E573EBF91?sharingId=A1237A2841EE63A9
+Kafka and event-driven architecture · advanced PySpark · Delta Lake and Apache Iceberg · Kubernetes and Helm · production RAG and agent evaluation.
 
-- Microsoft PL-300 — Power BI Data Analyst Associate (2024)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/9B6416C54738487?sharingId=A1237A2841EE63A9
+These are active learning and portfolio areas, not claims of production ownership.
 
-- Microsoft DP-100 — Azure Data Scientist Associate (2024)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/5B223060E063B5D1?sharingId=A1237A2841EE63A9
+## Connect
 
-- Microsoft DP-420 — Azure Cosmos DB Developer Specialty (2023)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/8ED51E74C262CAF1?sharingId=A1237A2841EE63A9
-
-- Microsoft DP-300 — Azure Database Administrator Associate (2023)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/36F66320A682B62F?sharingId=A1237A2841EE63A9
-
-- Microsoft DP-900 — Azure Data Fundamentals (2023)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/C9F38B5F6F0895C4?sharingId=A1237A2841EE63A9
-
-- Microsoft AI-900 — Azure AI Fundamentals (2023)  
-  https://learn.microsoft.com/api/credentials/share/en-in/akash211/71B1D07EE408C206?sharingId=A1237A2841EE63A9
-
----
-
-## 💼 Professional Experience (Selected)
-
-### Senior Software Specialist — Nuware Systems LLP (Client: AllianceBernstein)  
-Dec 2021 – Present  
-Role: Python Developer & Tick Data Engineer (EIMT/MAS)
-
-- Architected and managed 140+ TB data infrastructure.
-- Built automated pipelines processing 750+ GB daily using cron, Apache Airflow, and AWS S3.
-- Designed a data quality monitoring system covering 300+ databases with automated failure notifications.
-- Led migration from Databricks to Microsoft Fabric to modernize platform architecture.
-- Built and migrated interactive dashboards using Streamlit and Dash.
-- Ported a legacy 10-year-old R application to Streamlit to improve performance and maintainability.
-- Implemented DEV/PROD pipeline architecture in Power BI (Fabric) workspaces for Risk and Multi‑Asset teams.
-- Optimized OneTick time-series database performance via ODBC/DSN integrations and SQL Server pipelines.
-- Maintained critical data operations during a 6‑month transition with issues resolved within a 24‑hour SLA.
-- Transitioned ~150+ TB of datasets to Parquet format, improving query performance and lowering storage costs.
-- Redesigned internal documentation to speed onboarding and reduce knowledge gaps.
-
-Tech: Python, Bash, Apache Airflow, OneTick, AWS S3, Linux, SQL Server, Streamlit
-
----
-
-### Business Analyst — Amazon Development Centre (Strategic Vendor Services)  
-Oct 2017 – Dec 2021
-
-- Managed multi-region reporting for US, CA, and AU.
-- Automated processes delivering 60+ headcount savings.
-- Built 20+ Tableau dashboards for 200+ stakeholders.
-- Implemented NLP for product title optimization achieving 84% accuracy.
-- Conducted A/B testing and statistical analysis to measure conversion impact.
-- Mentored 15+ team members on SQL, Python, and Tableau.
-
-Tech: Python, Amazon Redshift, Tableau, Flask, Selenium, MySQL, Linux
-
----
-
-### Assistant Manager — Tolexo Online  
-Jun 2015 – Mar 2017
-
-- Led Six Sigma project reducing dispatch TAT from 3 days to 28 hours.
-- Built PostgreSQL-based reporting for warehouse and inventory.
-
----
-
-### Senior Executive — Snapdeal  
-Aug 2014 – Jun 2015
-
-- Optimized logistics handling 9,000+ daily orders and reduced processing time by 60%.
-- Automated KPI reporting using SQL and VBA.
-
----
-
-### Associate Manager — Jabong  
-Feb 2012 – Aug 2014
-
-- Streamlined vendor payment processing, reducing TAT from 15 days to 7 days.
-- Developed warehouse dashboards integrated with Microsoft Dynamics NAV.
-
----
-
-## 🎓 Education
-
-- Post Graduate Program in Business Analytics — Purdue University (2021–2022)
-- MBA (Operations) — Sikkim Manipal University (2014–2017)
-- B.Tech (Electronics & Communication) — Uttarakhand Technical University (2007–2011)
-
----
-
-## 🚀 Key Achievements
-
-- Delivered 60+ headcount savings through automation projects.
-- Improved performance (up to 40%) across applications and data processing pipelines.
-- Reduced turnaround times by 50%+ in vendor payments and logistics processes.
-- Built ETL pipelines handling multi-million record datasets daily.
-- Executed zero-downtime migrations across technology stacks.
-- Implemented real-time monitoring for pipeline health and data quality.
-- Led and mentored teams up to 12 engineers; trained 15+ staff on modern practices.
-
----
-
-## 📈 Professional Highlights
-
-- Designed end-to-end data pipelines from ingestion to consumption.
-- Strong cloud-first approach focused on modern data platforms (Azure Fabric, Synapse).
-- Consistent history of delivering measurable ROI through data automation and optimization.
-- Actively pursuing advanced certifications in Databricks, Snowflake, and AWS.
-
----
-
-## 💡 What I Bring
-
-- Proven ability to build data systems at scale.
-- Strong business acumen in E-commerce and Finance domains.
-- Deep automation expertise to eliminate manual work and reduce costs.
-- Hands-on with modern cloud-native data architectures.
-- Experience leading teams and mentoring engineers.
-
----
-
-## 📫 Contact / Hire
-
-- Email: akash211@gmail.com
 - LinkedIn: https://www.linkedin.com/in/akash211/
-- Phone: +91‑8860823656
+- Email: akash211@gmail.com
 
----
+If you are building data platforms, market-data systems or production AI automation, I would be happy to connect.
